@@ -1,5 +1,6 @@
 # BRAIT - Braille Translator
 
+Android-based Translate Braille application that can translate words from Braille to Latin words. Has a user friendly interface and Cloud Based Data Management
 
 ## Capstone Project Bangkit
 | Team Member | Student ID | Learning Path | Status | University |
